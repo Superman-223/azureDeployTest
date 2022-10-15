@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{AB4E943D-D20D-4255-B7EA-AFCF9E8A5EF6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AzureWebApp/AzureWebApp.csproj">
+    <Files>
+      <File FileName="AzureWebApp/Startup.cs" />
+      <File FileName="AzureWebApp/Program.cs" />
+      <File FileName="AzureWebApp/wwwroot/js/site.js" />
+      <File FileName="AzureWebApp/Pages/_ViewImports.cshtml" />
+      <File FileName="AzureWebApp/Pages/_ViewStart.cshtml" />
+      <File FileName="AzureWebApp/Pages/Index.cshtml" />
+      <File FileName="AzureWebApp/Properties/launchSettings.json" Line="22" Column="47" />
+      <File FileName="AzureWebApp/AzureWebApp.csproj" Line="5" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AzureWebApp" expanded="True">
+            <Node name="AzureWebApp" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AzureWebApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
