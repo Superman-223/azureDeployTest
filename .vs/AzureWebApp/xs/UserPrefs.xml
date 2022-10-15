@@ -1,22 +1,25 @@
 ﻿<Properties StartupConfiguration="{AB4E943D-D20D-4255-B7EA-AFCF9E8A5EF6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AzureWebApp/AzureWebApp.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AzureWebApp/Pages/Index.cshtml">
     <Files>
       <File FileName="AzureWebApp/Startup.cs" />
       <File FileName="AzureWebApp/Program.cs" />
       <File FileName="AzureWebApp/wwwroot/js/site.js" />
       <File FileName="AzureWebApp/Pages/_ViewImports.cshtml" />
       <File FileName="AzureWebApp/Pages/_ViewStart.cshtml" />
-      <File FileName="AzureWebApp/Pages/Index.cshtml" />
-      <File FileName="AzureWebApp/Properties/launchSettings.json" Line="22" Column="47" />
+      <File FileName="AzureWebApp/Pages/Index.cshtml" Line="9" Column="31" />
+      <File FileName="AzureWebApp/Properties/launchSettings.json" />
       <File FileName="AzureWebApp/AzureWebApp.csproj" Line="5" Column="21" />
+      <File FileName="AzureWebApp/Pages/Index.cshtml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AzureWebApp" expanded="True">
-            <Node name="AzureWebApp" expanded="True" selected="True">
+            <Node name="AzureWebApp" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Properties" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" selected="True" />
+              </Node>
               <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
